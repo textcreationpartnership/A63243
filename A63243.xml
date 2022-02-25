@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The duty of a Christian towards his neighbour considered in a sermon peached upon occasion of the Huntingdonshire feast at St. Swithin's Church, London, the 24th of June, being the Feast of St. J. Baptist / by Charles Trimnell.</title>
+            <author>Trimnell, Charles, 1663-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63243</idno>
+            <idno type="STC">Wing T2280</idno>
+            <idno type="STC">ESTC R25663</idno>
+            <idno type="EEBO-CITATION">09057470</idno>
+            <idno type="OCLC">ocm 09057470</idno>
+            <idno type="VID">42348</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63243)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42348)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1296:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The duty of a Christian towards his neighbour considered in a sermon peached upon occasion of the Huntingdonshire feast at St. Swithin's Church, London, the 24th of June, being the Feast of St. J. Baptist / by Charles Trimnell.</title>
+                  <author>Trimnell, Charles, 1663-1723.</author>
+               </titleStmt>
+               <extent>[3], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Weld,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew VII, 12 --  Sermons.</term>
+               <term>Golden rule --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42348:1"/>
+            <pb facs="tcp:42348:1" rendition="simple:additions"/>
+            <p>THE <hi>Duty of a Chriſtian</hi> Towards his Neighbour Conſidered.</p>
+            <p>IN A SERMON Preached upon Occaſion of the <hi>Huntingdonſhire</hi> Feaſt, AT St. <hi>Swithin</hi>'s Church, <hi>LONDON,</hi> The <hi>24th</hi> of <hi>June,</hi> being the Feaſt of St. <hi>J. Baptiſt.</hi>
+            </p>
+            <p>By <hi>CHARLES TRIMNELL,</hi> A. M. Prebendary of <hi>Norwich,</hi> Rector of <hi>Brington</hi> in <hi>Northamptonſhire,</hi> and Chaplain to the Right Honourable the Earl of <hi>Sunderland.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Weld,</hi> at the <hi>Crown</hi> between the <hi>Temple</hi>-Gates in <hi>Fleetſtreet.</hi> MDCXCVII.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:42348:2"/>
+            <pb facs="tcp:42348:2"/>
+            <opener>
+               <salute>TO MY Honoured Friends and Countrymen.
+<list>
+                     <item>Mr. <hi>Thomas Newman.</hi>
+                     </item>
+                     <item>Mr. <hi>Charles Bainton.</hi>
+                     </item>
+                     <item>Mr. <hi>John Foſter.</hi>
+                     </item>
+                     <item>Mr. <hi>Robert Purchaſe.</hi>
+                     </item>
+                     <item>Mr. <hi>Anthony Aſhton.</hi>
+                     </item>
+                     <item>Mr. <hi>John Bromhall.</hi>
+                     </item>
+                  </list> Stewards of the <hi>Huntingdonſhire</hi> Feaſt.</salute>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>HAving Preached the following Ser<g ref="char:EOLhyphen"/>mon at your Requeſt, <hi>To whom our Country owes ſo much for the Reviving of an uſeful Society, out of a Charitable deſign,</hi> I had no Room
+<pb facs="tcp:42348:3"/>left to refuſe the making it Publick, when you were alſo pleas'd to inſiſt upon that. For if you (for whoſe Uſe and Service it was more immediately deſign<g ref="char:EOLhyphen"/>ed) received any benefit from it, I cannot be without hopes, but it may be of ſome advantage to others; and I have no<g ref="char:EOLhyphen"/>thing to ſay againſt Communicating what has the leaſt appearance of turning to any ſerious Account, when I am duly required to do it: I wiſh only it had been better prepar'd to have anſwer'd my own and your deſign, however, you have it at your deſire, ſuch as it is. And that it may not wholly fail of that ſucceſs which <hi>(from your readineſs to bear an Expence at this time in Love to your Country, and the good Order obſerv'd by you in the diſ<g ref="char:EOLhyphen"/>charge of your Office)</hi> I am perſwa<g ref="char:EOLhyphen"/>ded
+<pb facs="tcp:42348:3"/>you wiſh it; I muſt intreat you to joyn your earneſt Prayers for a Bleſ<g ref="char:EOLhyphen"/>ſing upon it, to the Imperfect Petiti<g ref="char:EOLhyphen"/>ons of</p>
+            <closer>
+               <signed>Your very Affectionate Countryman, and very Faithful Friend and Servant, <hi>C. Trimnell.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:42348:4"/>
+            <pb n="1" facs="tcp:42348:4"/>
+            <head>THE Duty of a Chriſtian Towards his Neighbour Conſidered, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>MATTHEW vii. 12.</bibl>
+                  <p>Whatſoever you would that men ſhou'd do unto you, do ye even ſo unto them: for this is the Law and the Prophets.</p>
+               </q>
+            </epigraph>
+            <p>AS we cannot but ſee in every part of the <hi>Chriſtian Religion,</hi> the Concern of God for the good of <hi>Mankind,</hi> ſo it muſt needs be a very comprehenſive aſſu<g ref="char:EOLhyphen"/>rance
+<pb n="2" facs="tcp:42348:5"/>of his Fatherly Care, to find his <hi>Son</hi> juſtifying ſo much as he does, upon the obſervance of this General <hi>Rule,</hi> which is here delivered in the words of the Text: And it being the <hi>Foundation,</hi> on which the <hi>Happineſs</hi> of Men conſidered in any <hi>Society</hi> does ſo immediately ſtand: we ſhall do well up<g ref="char:EOLhyphen"/>on the preſent <hi>Occaſion</hi> to allow it a place in our <hi>Thoughts,</hi> both that we may the better fulfill its deſign, and alſo have the more honourable Opinion of that <hi>Religion</hi> which does ſo ſtrong<g ref="char:EOLhyphen"/>ly enforce it; in order to which we are to conſider theſe following things.
+<list>
+                  <item>1. The meaning of the words as here given for a Rule.</item>
+                  <item>2. The Equity of the Rule in them given.</item>
+                  <item>3. The Uſe and Perfection of it, for our conduct with one another.</item>
+                  <item>4. The Conſequence of its being ob<g ref="char:EOLhyphen"/>ſerved.</item>
+               </list>
+            </p>
+            <p n="1">
+               <pb n="3" facs="tcp:42348:5"/> 1. <hi>The meaning of the words as here given for a Rule;</hi> and this is commonly thought to be obvious enough, as what appears upon the firſt reading of them, without more ado; and yet taken in groſs, and in an unlimited Senſe, they ſeem to want the clearneſs and force of a <hi>Law,</hi> whether we conſider them Poſitively as they are here delivered, or Negatively, to which the reaſon of them does equally hold; that is to ſay, we ought not always to do to Men, as we have expected, or might be apt to ex<g ref="char:EOLhyphen"/>pect they ſhou'd do to us, upon chang<g ref="char:EOLhyphen"/>ing of Places, becauſe our <hi>Expectations</hi> may have been wrong, and we may be inclined to give way to ſuch ſtill; nor can it be always fit to forbear ſuch treat<g ref="char:EOLhyphen"/>ment of Men, as we perhaps in like caſe wou'd be glad to eſcape, becauſe it might not be fit that we ſhou'd, to make theſe caſes plain by an Inſtance or two.</p>
+            <pb n="4" facs="tcp:42348:6"/>
+            <p> A Man in Authority can't be obliged to allow ſo much liberty to thoſe that are under him, as he expected when it was his turn to obey, and may be diſ<g ref="char:EOLhyphen"/>poſed to do ſtill, unleſs his Expectati<g ref="char:EOLhyphen"/>ons were juſt, and fit for thoſe to grant, who had the Government over him; nor ought a Man to forbear pu<g ref="char:EOLhyphen"/>niſhing another, barely for being con<g ref="char:EOLhyphen"/>ſcious, he ſhou'd himſelf in ſuch cir<g ref="char:EOLhyphen"/>cumſtances deſire a Pardon, unleſs it was alſo fit he ſhou'd have it; ſo that the Rule does not purely depend upon Men's particular Wiſhes and Hopes, but the conſtant <hi>Reaſon</hi> and <hi>Fitneſs of things;</hi> which Reaſon of things, is to determine the Senſe of theſe words be<g ref="char:EOLhyphen"/>fore we can ſafely guide our ſelves by them, as it muſt do alſo the meaning of thoſe, wherein our <hi>Neighbours.</hi> are re<g ref="char:EOLhyphen"/>commended to be <hi>loved as our ſelves,</hi> theſe plainly appearing to be of the ſame force and extent.</p>
+            <pb n="5" facs="tcp:42348:6"/>
+            <p> And if it be hereon demanded, to what purpoſe they ſerve, it of themſelves they are not a Law, it is eaſie to anſwer, That, tho they are not a Rule without more ado, they are very near to it, and put things not in ſuch a light, as we ſhall eaſily ſee what is fit to be done, and cannot avoid condemning our ſelves, if we do not that which we thus come come to diſcover we ſhou'd; nay, thus far 'tis directly a Rule that we ought to do that to others, which we think in like caſes they ſhou'd do to us, and forbear doing that, which we think like<g ref="char:EOLhyphen"/>wiſe they ought to avoid, becauſe other<g ref="char:EOLhyphen"/>wiſe we make one Rule for our dealing with others, and a different one for their treating of us, which can never be right, when we ſtand in need of one anothers <hi>mutal ſupport,</hi> and are all under <hi>common ſubjection,</hi> which muſt needs lay the ſame Rule upon us, or no Rule at all; for there is no end of letting every Man in this caſe be a Law to another, unleſs he is willing to be the ſame Law to himſelf.</p>
+            <pb n="6" facs="tcp:42348:7"/>
+            <p> We may indeed have different thoughts of caſes, when they are our own, and when they ſtand as another's, but we ought to ſuſpect our Judgments, when they tend to excuſe us from that, which we thought it the duty of others to pay, and we can ſcarce avoid a plain con<g ref="char:EOLhyphen"/>tradiction, if at or near the ſame time, we fail of doing that on one hand, which we expect, as our due on another; and ſuch caſes do often occur, in which caſes though we ſhou'd be miſtaken in what we expect, as belonging in reaſon to us; yet while we think ſo, we are to deal ſo with others, becauſe we are to do what we think to be fit. Nay, tho we ſhou'd only be conſcious, that in ſuch caſes we deſire ſuch advantage from o<g ref="char:EOLhyphen"/>thers, if we are not aware of any rea<g ref="char:EOLhyphen"/>ſon that forbids ſuch deſires, we can have no reaſon againſt gratifying them, when they are in another, but ſhall have rea<g ref="char:EOLhyphen"/>ſon to do it, becauſe it is always rea<g ref="char:EOLhyphen"/>ſonable to prevent another's uneaſineſs, when there is no reaſon to hinder us;
+<pb n="7" facs="tcp:42348:7"/>tho I am apt to think a caſe will ſeldom come to this iſſue, in as much as we rare<g ref="char:EOLhyphen"/>ly, if ever, allow our ſelves to deſire any good from another, without thinking at the ſame time we have reaſon to do ſo; which reaſon whatſoever it is, is of as much force to oblige us to anſwer o<g ref="char:EOLhyphen"/>ther Men's Expectations, as it is to warrant our own. From whence we are led to conſider,</p>
+            <p n="2">2. <hi>The Equity of the Rule here given.</hi> And we cannot ſurely make any queſti<g ref="char:EOLhyphen"/>on of our being oblig'd to act as we think others ſhou'd do, becauſe we do nothing in diſcharge of ſuch obligation, but what is fit to be done, our ſelves being Judges, and it is not our being concern'd can alter the caſe; a Rule of this kind muſt oblige all alike, or not be any direction at all, for who ſhall ſay, who is exempt? And who wou'd not be excuſed, if it depended on them? Which would plainly defeat the intent of the Law, and directly oppoſe that Equity which is always impartial, and
+<pb n="8" facs="tcp:42348:8"/>providing as well for one as another, does not take its meaſures from any par<g ref="char:EOLhyphen"/>ticular, but the common advantage, in which moſt will find their Account.</p>
+            <p>If others took the ſame freedom as we, cou'd we ſay they did ill, or at leaſt that they acted worſe than our ſelves? For their <hi>Natural Right</hi> is as large, and if they uſed it as far, as we cou'd not pretend to reſtrain them, ſo we ſhou'd not be much the better for our's; what therefore is fit in one caſe is fit in ano<g ref="char:EOLhyphen"/>ther; that is, as much the ſame as ano<g ref="char:EOLhyphen"/>ther can be, and that is the moſt equal Rule, without all peradventure, which a like conſults the good of every one. Nor is it a leſs commendation, that it puts Men in ſuch a way of promoting it, as that they cannot, without affe<g ref="char:EOLhyphen"/>cting to be wilder themſelves, be at all in the dark, or at any great loſs how to purſue it, for the Rule is as eaſie to apply to our Actions as it is fit to direct them. Which leads us to con<g ref="char:EOLhyphen"/>ſider,</p>
+            <p n="3">
+               <pb n="9" facs="tcp:42348:8"/> 3. <hi>The <g ref="char:V">Ʋ</g>ſe and Perfection of it, for our conduct with one another.</hi> By its Uſe, I mean its being always at hand, and pointing plainly to what we ſhou'd do, and by its Perfection, its reaching every caſe in which one Man is concern'd with ano<g ref="char:EOLhyphen"/>ther: To have a ſenſe of its uſe, we are to conſider that was a Law in it ſelf never ſo good, that is, never ſo fit to be the meaſure of acting, yet if it cou'd not be eaſily apply'd, it wou'd fall very ſhort of attaining its end; was it either hard to come by, or to under<g ref="char:EOLhyphen"/>ſtand when we had it before us, we ſhou'd not be much the better for its being well made in other reſpects; but this Rule is difficient in neither of theſe, it is always at hand, and looking on it, we cannot but ſee the way we ſhou'd go.</p>
+            <p>It is not only eaſie to ask our ſelves the queſtion, what we thought we had reaſon to look for in any ſuch caſe, but our thoughts are almoſt ever upon it, we are ſtill looking out for what ſhou'd
+<pb n="10" facs="tcp:42348:9"/>come to us, and having ſomething to do with others, in almoſt all the concerns of our Life we are in every thing that oc<g ref="char:EOLhyphen"/>curs, laying Schemes to our ſelves, how we ought to be uſed, and this being that which we are to conſider, when we come to Act, 'tis more than eaſie, having re<g ref="char:EOLhyphen"/>courſe to a Rule that is ſo conſtant<g ref="char:EOLhyphen"/>ly with us, we muſt be at pains to avoid it, and can hardly help reſolving upon it what we have to do, but ſhall find our ſelves bound by the Laws we pre<g ref="char:EOLhyphen"/>ſcribe.</p>
+            <p>Perhaps our Expectations from others in matters of latitude may be too great, but then we are to conſider, that the allowance we ſhall of our ſelves be diſ<g ref="char:EOLhyphen"/>poſed to make others, will be altogether as ſtraight, which offers a fair proporti<g ref="char:EOLhyphen"/>on between them, and it will be as ea<g ref="char:EOLhyphen"/>ſie as ſafe to take that which comes near<g ref="char:EOLhyphen"/>eſt to what we expect; and a readier rule we cannot have in ſuch kind of caſes, which have no eſtabliſh'd one of their own, for be it a matter of reced<g ref="char:EOLhyphen"/>ing
+<pb n="11" facs="tcp:42348:9"/>from what is our Right, or of ſhewing compaſſion, it will not be ſo eaſie to ſee how far we ſhou'd go, by abſtractedly ſtating the caſe, or with reſpect only to thoſe, for whoſe immediate ſake it is to be done, as if we put our ſelves in their place, and think what we ſhou'd hope at their hands: This will carry us over many exceptions we ſhou'd otherwiſe raiſe, and ſet all the motives of Pity and Peace in their fulneſs of ſtrength, our Hearts will tenderly open to let in the whole force of the caſe, and we ſhall rea<g ref="char:EOLhyphen"/>dily yield to what its merits require.</p>
+            <p>In Cauſes of ſtrict and rigorous Right, this Rule is yet of more immediate uſe, as we have a quicker and <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>arer ſenſe of what is ſtrictly our due; ill than of what we can only hope to receive from Mens larger meaſures of acting, it is eaſier much to diſtinguiſh between <hi>Right</hi> and <hi>Wrong,</hi> than it is to ſay when Men do as they ought, where we cannot ſay that theſe are directly concern'd; and yet even in diſcerning of theſe, we ſee what obſcu<g ref="char:EOLhyphen"/>rity
+<pb n="12" facs="tcp:42348:10"/>Mens <hi>Corruptions</hi> will bring upon the plaineſt Laws that are ſet to adjuſt them, nor can theſe clouds be any way ſo quickly diſperſed, as by puting our ſelves in Expectation of that which other Men demand at our hands; this will help us through all thoſe diſtinctions, which our <hi>Partiality</hi> is apt to invent, and what is juſt in it ſelf, will ſo appear in our Eyes.</p>
+            <p>Men ſometimes think indeed, they have a right to that which is no way their due, but this is when their thoughts are only on that, and they do not conſi<g ref="char:EOLhyphen"/>der them from whom we expect it, but in the caſe which we put, they are firſt engaged in thinking what they are to pay, and when that <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s narrowed their thoughts, there is no danger; that bare turning the Glaſs, juſt at that time, to ſee what they wou'd look for themſelves, ſhou'd enlarge them too far, where 'tis well if they do not ſuppreſs their own Expectations as ſoon as they ſee them, turning againſt them, to be ſure, it will not do more than ſet things in an indifferent view, and
+<pb n="13" facs="tcp:42348:10"/>judging between themſelves on each ſide of the caſe, will be like judging between two other perſons, equally unknown or e<g ref="char:EOLhyphen"/>qually dear, and ſet to judge between ei<g ref="char:EOLhyphen"/>ther of theſe, we are not ſo very apt to mi<g ref="char:EOLhyphen"/>ſtake.</p>
+            <p>For it is not ſo much the difficulties of things, as the prejudices vvith vvhich vve come to conſider them, that make them obſcure, vvhen once vve are diveſted of theſe, they appear to us for the moſt part as truly they are, and our judgment is feldom vvrong, vvhen 'tis perfectly free: A great inſtance of this vve have in <hi>David</hi>'s ready condemning himſelf in another Mans perſon, as the Prophet vviſely propoſes the Caſe, vvhereas had he directly put him to think of the ill he had done, he vvou'd hardly have got ſo clear a Confeſ<g ref="char:EOLhyphen"/>ſion, ſome excuſing or other might per<g ref="char:EOLhyphen"/>haps have crept in, and ſoft'ned the fault, but novv having paſs'd ſentence already, he left himſelf no vvay to eſcape, but is humbled under the ſenſe of his ſin: Of ſuch uſe is this Rule to <hi>Convince</hi> as vvell
+<pb n="14" facs="tcp:42348:11"/>as <hi>Direct,</hi> and we cannot indeed diſcover Errours, by any thing ſo well as that, which is in all our goings, the beſt light to our paths.</p>
+            <p>For of that extent and perfection it is, that it reaches every caſe that can riſe be<g ref="char:EOLhyphen"/>tween one Man and another, and on that account does highly deſerve the Charact<g ref="char:EOLhyphen"/>er of a <hi>Royal Law,</hi> as 'tis called by St. <hi>James,</hi> tho' it ſelf comes under the general Rule of the reaſon of things, which muſt ever Regulate thoſe <hi>Deſires</hi> of ours which are here laid as the ground of this Law; But tho' for this reaſon it is not that laſt principle, into which the fitneſs of all our Actions is duly reſolved, yet it always is our more immediate direction, and ſtands alone for a Rule where we have no bet<g ref="char:EOLhyphen"/>ter view of the fitneſs of things, ſo that one way or other by means of this we have always a <hi>Guide.</hi>
+            </p>
+            <p>For it takes place as has been already ſuppoſed by the way not only in thoſe caſes, which ſtrict Juſtice decide, but al<g ref="char:EOLhyphen"/>ſo in thoſe, which <hi>common Humanity, Kind<g ref="char:EOLhyphen"/>neſs,
+<pb n="15" facs="tcp:42348:11"/>Forbearance,</hi> or <hi>Charity</hi> recommend to our care, it likewiſe extends to the bearing of Juſt inconveniences from o<g ref="char:EOLhyphen"/>thers, when they do nothing to bring them upon us, but what we ſhould think our ſelves obliged to do, if we were in their place; and this includes the entire mutual commerce of Men, in every In<g ref="char:EOLhyphen"/>ſtance of which there is a particular way of Acting, that, in the opinion of all when they are free to conſider, does moſt tend to advance their common deſign, which every one hopes to meet with, when it comes to his turn, and which hoping ſo, he ought therefore to follow, when another re<g ref="char:EOLhyphen"/>ceives the benefit of it.</p>
+            <p>On this account we need never be at a very great ſtand, in any Occurrence, how to proceed, we ſhall ſoon be able to anſwer all our own queſtions and doubts, by ſaying what we think another ſhou'd do, in the ſame ſtate of enquiry; and ha<g ref="char:EOLhyphen"/>ving no other Law we ſhall in every caſe be a Law to our ſelves, our Conſciences all the while accuſing or elſe excuſing
+<pb n="16" facs="tcp:42348:12"/>one another, and the more as we ſee the Effects of following or going againſt this excellent Rule, which may well ſtand for <hi>the Law and the Prophets,</hi> that is, all that they direct us to do, one toward another for our mutual Good. Which brings us in the laſt place to Conſider.</p>
+            <p n="4">4. <hi>The Conſequence of its being obſerv'd.</hi> And was this Rule obſerv'd, a happy change wou'd be made in our Thoughts, Converſations, and Actions, to the eaſe of our ſelves, and the advantage of others, we ſhou'd in the firſt place think fairly one of another, and make in our minds, as kind allowances to whatever they did as their Actions would bear, preſerving for them as great an Eſteem as their Worth did require: For we know that we all expect this off others, and think it our due, as truly it is, and did we pay it as fully as we always demand it, we ſhou'd live at an eaſier rate with our ſelves, and with others, than at pre<g ref="char:EOLhyphen"/>ſent we do; for ſure it cannot be a plea<g ref="char:EOLhyphen"/>ſing Reflection to think, that there is no
+<pb n="17" facs="tcp:42348:12"/>goodneſs at all in the World, while we re<g ref="char:EOLhyphen"/>member at leaſt that we are a part, and cannot pretend to be above all the reſt, or exempt from thoſe Imputati<g ref="char:EOLhyphen"/>ons which we charge on the <hi>whole;</hi> and yet we hardly think ſo ill of our ſelves, as we often ſeem to do of the World, for did we do this, we cou'd never enjoy any peace in our minds which if we help to maintain, by conſidering ſuch things, as do with ſome juſtneſs leſſen our guilt, having the ſame conſiderati<g ref="char:EOLhyphen"/>ons for others, wou'd help us to think much better of them, and of courſe to live more eaſily with them, for an ill o<g ref="char:EOLhyphen"/>pinion of Men robs us of all the comfort we cou'd hope to have in them, and therefore ſhou'd be as little encouraged as ever we cou'd, in love to our ſelves, nor ſhall we give any way to it, if we ſtand to this Rule.</p>
+            <p>Much leſs ſhall we Speak or Act with<g ref="char:EOLhyphen"/>out any occaſion, upon ſuch an opini<g ref="char:EOLhyphen"/>on, but ſhall give Men good words to their face, and ſpeak as well of them, as their caſes will bear, and our duty allow
+<pb n="18" facs="tcp:42348:13"/>we ſhould never ſay any thing to the great diſadvantage of others for the pleaſure of ſaying it, nor take delight in other mens ſhame, for this we are ſo far from being willing they ſhould do with ours, that we hope they will cover our weakneſs wherever they can. And did we all ſet our ſelves to do this, a great deal of ill will and contention wou'd be thereby prevented, and our own <hi>Reputations</hi> preſerved more entire: For the liberty we take of detra<g ref="char:EOLhyphen"/>cting from others, will provoke them to make uſe of the ſame, as no Injuries are more rarely forgiven than thoſe of the Tongue. Whereas was that inoffenſive, there wou'd be leſs to ſtand in need of a pardon, as there wou'd be much leſs to en<g ref="char:EOLhyphen"/>flame. The courſe of Nature wou'd be very quiet if that was ſtill, which uſes to ſet it on fire, much more if it mov'd to the praiſe of all that fairly deſerved it; if our anſwers were ſoft and our language endearing, what <hi>Peace</hi> wou'd abound in the <hi>Earth,</hi> and what <hi>good will among Men?</hi> e<g ref="char:EOLhyphen"/>ſpecially when we conſider that that re<g ref="char:EOLhyphen"/>gard
+<pb n="19" facs="tcp:42348:13"/>to this Rule which keeps the door of our lips will carry us yet further than this, and make our Actions as good as our Words.</p>
+            <p>We ſhall not do to others any of thoſe things which we hate, but allow all the treatment we love, we ſhall <hi>not go beyond or defraud our Brother in any matter,</hi> not caring our ſelves to be over-reached; we ſhall wrong none in their Bodies, E<g ref="char:EOLhyphen"/>ſtates, or Relations, but leave them as ſafe as we wou'd have our own, giving to all, what on any account is their due; we ſhould be exactly true to our truſts, and ſerve others as we wiſh to be ſer<g ref="char:EOLhyphen"/>ved; we ſhou'd judge rightly between Man and Man, being call'd to decide any matter of doubt, and in all rewards and puniſhments that belonged to our place, reſpect only the deſerving, of thoſe over whom we were ſet, and the end of our Truſt.</p>
+            <p>And was this but once the General practice, what comfort and eaſe ſhou'd we find in the World, and what pleaſure in walking up and down in it? with
+<pb n="20" facs="tcp:42348:14"/>what ſecurity ſhou'd we enjoy our ſeve<g ref="char:EOLhyphen"/>ral Portions, and how much wou'd be ad<g ref="char:EOLhyphen"/>ded to them by that? when <hi>Judgment runs down like Waters, and Righteouſneſs like a mighty Stream</hi> in the Prophets ſimilitude. It has only the better likeneſs of a flood, overturning nothing, but Enriching and Fencing the ground all along as it goes.</p>
+            <p>And what is yet more for the praiſe of our Rule, and thoſe that obſerve it, is, that not only juſtice will be puctu<g ref="char:EOLhyphen"/>ally done, but mercy alſo will freely be ſhewn, as what Men with reaſon hope for themſelves, when they ſtand in need of it, kind Admonitions will be given to thoſe, whoſe ſlackneſs requires them, and all the mildneſs be ſhewn in puniſhing particu<g ref="char:EOLhyphen"/>lar Perſons, that is not cruel to more. We ſhall forewarn others of any danger we ſee them incurring, and do what we can to deliver them from it: We ſhall relieve the poor as far as our own occaſions without extending, will fairly allow, and lend all that Aſſiſtance they lack, and which we have to give.</p>
+            <pb n="21" facs="tcp:42348:14"/>
+            <p> In this mutual ſupply of each others wants, none can fall into, or at leaſt not lye very long in any grievous diſtreſs, for God has made ſuffi<g ref="char:EOLhyphen"/>cient proviſion for mankind in general, who cannot therefore ſuffer much unleſs from them<g ref="char:EOLhyphen"/>ſelves, which will be ſo far from hapning, if all extend the pity which at ſome time they ask, that by every Man's <hi>putting his hand to the Plow</hi> every Man's <hi>Yoke will be eaſy,</hi> and every Man's <hi>Burden be light:</hi> there will be no leading into Captivity, nor will any Complaints be heard in our Streets.</p>
+            <p>If any ſhou'd notwithſtanding their honeſt intention to walk by this Rule, yet fail ſo much of it, as to incurr puniſhment for offend<g ref="char:EOLhyphen"/>ing againſt any part of it, their deſign to re<g ref="char:EOLhyphen"/>gard it will ſoon convince them of their hav<g ref="char:EOLhyphen"/>ing done ill, upon trying their Actions by it, and make them patiently bear, what their faults have deſerved, without conceiving ill will a<g ref="char:EOLhyphen"/>gainſt thoſe, whoſe duty it was to take cogni<g ref="char:EOLhyphen"/>zance of them; ſo that either there will be no occaſion for the Adminiſtrations of juſtice by way of Correction or Men will be quietly mended upon them: And thus the words of the Saint of this Day will have another full<g ref="char:EOLhyphen"/>filling
+<pb n="22" facs="tcp:42348:15"/>
+               <hi>Every Valley will be Exalted, and every Mountain and Hill will be brought low, the crook<g ref="char:EOLhyphen"/>ed will be made ſtrait, and the rough places plain. Happy are the people that are in ſuch a caſe, yea, Bleſſed are the People who have this Law for their Guide.</hi>
+            </p>
+            <p>How ought we then to ſtrive for this hap<g ref="char:EOLhyphen"/>py Eſtate? How ſhould we labour to partake of this Reſt, which is to be had on this ſide the Grave, thro' that effect this practice will have upon the Courſe of the World? And tho' it ſhou'd not prevail on ſo many, as to give it ſelf an Univerſal extent, yet they who maintain it are ſure to avoid that ſelf Con<g ref="char:EOLhyphen"/>demnation, that cannot be parted from acting againſt it, and muſt always have better grounded, and livelier hopes of meeting with all that is equal and kind at other Mens hands.</p>
+            <p>But whither it immediately brings this ad<g ref="char:EOLhyphen"/>vantage or no, or how much harder meaſure ſoever we find, than our dealings deſerve, we muſt not alter our Courſe, nor learn fro<g ref="char:EOLhyphen"/>wardneſs from thoſe that are froward; it is a great inſtance both of the Wiſdom and Goodneſs of God, that he has given us ſuch Laws of living together, as make to our pre<g ref="char:EOLhyphen"/>ſent
+<pb n="23" facs="tcp:42348:15"/>advantage, but we are not therefore at li<g ref="char:EOLhyphen"/>berty to ſet them aſide, if we do not find them immediately turn to account, for it has plea<g ref="char:EOLhyphen"/>ſed God to eſtabliſh them ſo, as to make it the intereſt of all to obſerve them, under a<g ref="char:EOLhyphen"/>ny ſort of diſcouragement here, by providing a further reward for all that obey them, than can be hoped from the State of this World, and a greater puniſhment for thoſe that tranſ<g ref="char:EOLhyphen"/>greſs, than that can inflict.</p>
+            <p>And well is it for us that ſuch a Proviſion is made, without which our own obſervation wou'd hardly let us expect, thoſe Bleſſed Fruits, which yet we cannot but ſee wou'd grow on this ex<g ref="char:EOLhyphen"/>cellent ground, upon which let us therefore pro<g ref="char:EOLhyphen"/>ceed in whatever we do, and always be rea<g ref="char:EOLhyphen"/>dy to pay this debt of our Natures, that the common ſtock may be thereby improv'd to the profit of others, and tho' out of this we ſhou'd not have here the greateſt and quickeſt returns, yet the <hi>meaſure with which we have meeted,</hi> will be made up at the laſt and our <hi>Cup will be full.</hi>
+            </p>
+            <p>Let this prevail with us to go on in well doing, and abound in good works, of which <hi>in due Seaſon, if we faint not, we ſhall reap</hi> the advantage.</p>
+            <pb n="24" facs="tcp:42348:16"/>
+            <p> Let us of this <hi>Aſſembly</hi> eſpecially (to whom the Place of our Birth does in ſomewhat a more peculiar manner ſeem to aſſign a common concern) give proof of our co<g ref="char:EOLhyphen"/>ming together for the Honour of God, and the ad<g ref="char:EOLhyphen"/>vancement of all <hi>Sociall vertues,</hi> by perſuing theſe ends in all our Communications with Men, let us <hi>bind this Law</hi> of our Gracious Redeemer, and Lord of us all, <hi>round about our necks, and write it upon the Table of our Hearts,</hi> that it may be the Ornament and Guard of our lives, and let it be our particular Guide in what relates to the preſent Solemnity, that there may be no <hi>ſpots in our feaſts of Charity,</hi> but that others may be invited by our Friendly and Chriſtian Conduct to uſe the ſame means of promoting Compaſſion and Peace, and whatever elſe belongs to the part of <hi>Brotherly Love.</hi>
+            </p>
+            <p>Let <hi>Good will</hi> amongſt us help to the better agreement of our <hi>Country</hi> in General, and our particular kind <hi>Combinations</hi> add to the <hi>Peace</hi> of the <hi>Church</hi> and <hi>ſtrength</hi> of the <hi>ſtate,</hi> ſo ſhall no <hi>heavineſs</hi> come at the end of our mirth, but this Days <hi>ſatisfactions</hi> will make way for higher <hi>Contentments</hi> and carry us on with the more <hi>Pleaſure</hi> to the fillling up of our Joy, <hi>Which God of his infinite mercy grant for the ſake of his Son Chriſt Jeſus, to whom with the Father in the <g ref="char:V">Ʋ</g>nity of the Spirit, be all Glory and Honour now and for ever.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42348:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
